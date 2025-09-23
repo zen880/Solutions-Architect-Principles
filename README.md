@@ -8,7 +8,7 @@ This book is written for aspiring architects, seasoned engineers looking to tran
 - [Chapter 3: Performance and Scalability](03-Performance-and-Scalability)
 - [Chapter 4: Availability and Reliability](04-Availability-and-Reliability)
 - [Chapter 5: Security](05-Security)
-- Chapter 6: Cost Optimization
+- [Chapter 6: Cost Optimization](06-Cost-Optimization)
 - Chapter 7: Operability and Maintainability
 - Chapter 8: The Architecture Design Process
 - Chapter 9: The Art of the Trade-Off
